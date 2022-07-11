@@ -142,6 +142,7 @@ p {
 
 .description {
   padding: 5%;
+  width: 40%;
   display: flex;
   flex-direction: column;
   justify-content: center;
